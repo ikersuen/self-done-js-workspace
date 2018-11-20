@@ -1,0 +1,14 @@
+{
+  "name": "self-done-js-workspace",
+  "version": "1.0.0",
+  "description": "self done js workspace after 10 minutes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ikersuen",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
